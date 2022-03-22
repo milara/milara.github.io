@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Technology and Social Behaviour, Northwestern University, 2019
+* Masters in Journalism, Ryerson University, 2010
+* B.S. in Physics with Science Writing, Massachusetts Institute of Technology, 2002
+
 
 Work experience
 ======
@@ -56,4 +57,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 4 million different slack teams
