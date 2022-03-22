@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Miriam Boon"
-  avatar           : "profile.png"
+  avatar           : "professionalmiriam.jpg"
   bio              : "’Twas brillig, and the slithy toves Did gyre and gimble in the wabe"
-  location         : "Regina, Canada"
+  location         :
   employer         : "University of Regina"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=QSYmWVYAAAAJ&hl=en"
