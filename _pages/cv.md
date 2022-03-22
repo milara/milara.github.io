@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Technology and Social Behaviour, Northwestern University, 2019
+* Ph.D in Technology and Social Behavior, Northwestern University, 2019
 * Masters in Journalism, Ryerson University, 2010
 * B.S. in Physics with Science Writing, Massachusetts Institute of Technology, 2002
 
